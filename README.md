@@ -1,2 +1,2 @@
 # pythonDSA
-This is a repostory with all materiasl for DSA from MIT
+This is a repostory with all materials for DSA from MIT
